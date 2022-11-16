@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934813627781",
+    "firebase_url": "https://ck-ltdd-ecd7e-default-rtdb.firebaseio.com",
+    "project_id": "ck-ltdd-ecd7e",
+    "storage_bucket": "ck-ltdd-ecd7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934813627781:android:2899165e6ec3fbeaec00ec",
+        "android_client_info": {
+          "package_name": "com.example.ck_ltdd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934813627781-fgcpvcoskgid1nh11ibm8k1jtcm9s287.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_Km4bXJpI1lx42w-QAb6PnvEQzwyl0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934813627781-fgcpvcoskgid1nh11ibm8k1jtcm9s287.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
